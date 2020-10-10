@@ -12,7 +12,7 @@ jobs:
       - uses: R0Wi/fork-sync@feature/auto-approve
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          owner: llvm
+          owner: R0Wi
           base: master
           head: master
           auto_approve: true
