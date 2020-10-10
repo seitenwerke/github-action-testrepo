@@ -15,3 +15,4 @@ jobs:
           owner: llvm
           base: master
           head: master
+          auto_approve: true
